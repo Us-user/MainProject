@@ -9,3 +9,8 @@
   --breakpoint-2xl: 1400px;
   --breakpoint-3xl: 1600px;
 }
+
+@theme {
+  --breakpoint-m: 350px;
+  --breakpoint-d: 600px
+}
